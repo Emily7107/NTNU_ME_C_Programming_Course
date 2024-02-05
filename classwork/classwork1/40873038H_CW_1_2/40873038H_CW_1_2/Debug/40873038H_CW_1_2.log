@@ -1,0 +1,6 @@
+﻿  classwork1_2.cpp
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\程式設計\程式練習\classwork1\40873038H_CW_1_2\40873038H_CW_1_2\classwork1_2.cpp(13,10): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\程式設計\程式練習\classwork1\40873038H_CW_1_2\40873038H_CW_1_2\classwork1_2.cpp(13,10): message : 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\程式設計\程式練習\classwork1\40873038H_CW_1_2\40873038H_CW_1_2\classwork1_2.cpp(13,10): message : 缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+C:\Users\Emily Wu\Desktop\庭妤的資料\作業\程式設計\程式練習\classwork1\40873038H_CW_1_2\40873038H_CW_1_2\classwork1_2.cpp(13,10): message : 此引數可用為緩衝區大小
+  40873038H_CW_1_2.vcxproj -> C:\Users\Emily Wu\Desktop\庭妤的資料\作業\程式設計\程式練習\classwork1\40873038H_CW_1_2\Debug\40873038H_CW_1_2.exe

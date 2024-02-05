@@ -1,0 +1,14 @@
+void test1();
+double p1(double, double, double);
+void test2();
+int reverse(int, int);
+void test3();
+char p3(int );
+void test4();
+void p4(int, int);
+void test5();
+int p5(int, int);
+void test6();
+bool p6(int);
+void test7();
+bool p7(int);

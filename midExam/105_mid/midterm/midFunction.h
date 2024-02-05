@@ -1,0 +1,16 @@
+int mainMenu();
+int FundamentalMenu();
+int AdvanceMenu();
+void FundamentalEntry();
+void AdvanceEntry();
+void Mid1();
+void Mid2();
+int reverse(int num, int rev);
+void Mid3();
+void TOH(int,char,char,char);
+void Mid4();
+void Heart(int);
+void Mid5();
+int Combination(int m,int n);
+void Mid6();
+int isPrime(int num);

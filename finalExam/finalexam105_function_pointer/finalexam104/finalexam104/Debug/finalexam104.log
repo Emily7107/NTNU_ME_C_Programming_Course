@@ -1,0 +1,14 @@
+﻿已經開始建置於 2016/12/16 下午 06:14:09。
+     1>節點 2 (Build 目標) 上的專案 "D:\sdwu\師大\教學\精修課程\程式設計\105\期末考_function pointer\finalexam104\finalexam104\finalexam104.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt final_func.cpp
+         final_func.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\sdwu\師大\教學\精修課程\程式設計\105\期末考_function pointer\finalexam104\Debug\finalexam104.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\sdwu\師大\教學\精修課程\程式設計\105\期末考_function pointer\finalexam104\Debug\finalexam104.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\sdwu\師大\教學\精修課程\程式設計\105\期末考_function pointer\finalexam104\Debug\finalexam104.lib" /MACHINE:X86 Debug\final_func.obj
+         Debug\final_main.obj
+         finalexam104.vcxproj -> D:\sdwu\師大\教學\精修課程\程式設計\105\期末考_function pointer\finalexam104\Debug\finalexam104.exe
+     1>專案 "D:\sdwu\師大\教學\精修課程\程式設計\105\期末考_function pointer\finalexam104\finalexam104\finalexam104.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.32

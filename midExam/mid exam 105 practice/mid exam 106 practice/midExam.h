@@ -1,0 +1,11 @@
+void p1();
+float p1(float, float, float, float);
+void p2();
+double p2(double , double , double );
+void p3();
+void p4();
+bool p4(int);
+void p5();
+int p5(int, int);
+void p6();
+void p6(int, char, char, char);

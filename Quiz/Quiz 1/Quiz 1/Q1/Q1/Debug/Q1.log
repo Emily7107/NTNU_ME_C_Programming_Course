@@ -1,0 +1,3 @@
+﻿  Q1.cpp
+C:\Users\Administrator\Desktop\臺師大109-1課程\程式設計Quiz\Quiz 1\Q1\Q1\Q1.cpp(14,10): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Q1.vcxproj -> C:\Users\Administrator\Desktop\臺師大109-1課程\程式設計Quiz\Quiz 1\Q1\Debug\Q1.exe

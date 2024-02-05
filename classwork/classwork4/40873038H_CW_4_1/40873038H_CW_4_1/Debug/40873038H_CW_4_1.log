@@ -1,0 +1,9 @@
+﻿  40873038H_CW_4_1.cpp
+C:\Users\Antares\Desktop\庭妤的資料\程式設計\程式練習\40873038H_CW_4_1\40873038H_CW_4_1\40873038H_CW_4_1.cpp(13,13): warning C4473:  'printf_s' : 傳遞給格式字串的引數不足
+C:\Users\Antares\Desktop\庭妤的資料\程式設計\程式練習\40873038H_CW_4_1\40873038H_CW_4_1\40873038H_CW_4_1.cpp(13,13): message :  預留位置及其參數需要 1 個 variadic 引數，但卻提供了 0 個
+C:\Users\Antares\Desktop\庭妤的資料\程式設計\程式練習\40873038H_CW_4_1\40873038H_CW_4_1\40873038H_CW_4_1.cpp(13,13): message :  缺少 variadic 引數 1 (其為格式字串 '%d' 所需)
+C:\Users\Antares\Desktop\庭妤的資料\程式設計\程式練習\40873038H_CW_4_1\40873038H_CW_4_1\40873038H_CW_4_1.cpp(15,13): warning C4473:  'printf_s' : 傳遞給格式字串的引數不足
+C:\Users\Antares\Desktop\庭妤的資料\程式設計\程式練習\40873038H_CW_4_1\40873038H_CW_4_1\40873038H_CW_4_1.cpp(15,13): message :  預留位置及其參數需要 1 個 variadic 引數，但卻提供了 0 個
+C:\Users\Antares\Desktop\庭妤的資料\程式設計\程式練習\40873038H_CW_4_1\40873038H_CW_4_1\40873038H_CW_4_1.cpp(15,13): message :  缺少 variadic 引數 1 (其為格式字串 '%d' 所需)
+C:\Users\Antares\Desktop\庭妤的資料\程式設計\程式練習\40873038H_CW_4_1\40873038H_CW_4_1\40873038H_CW_4_1.cpp(34): warning C4715:  'isLeap': 不是所有控制路徑都傳回值
+  40873038H_CW_4_1.vcxproj -> C:\Users\Antares\Desktop\庭妤的資料\程式設計\程式練習\40873038H_CW_4_1\Debug\40873038H_CW_4_1.exe

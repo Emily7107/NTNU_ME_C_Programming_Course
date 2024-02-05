@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Antares\Desktop\庭妤的資料\程式設計\程式練習\40873038H_CW7\40873038H_CW7\main.cpp(85,21): warning C4244:  '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  40873038H_CW7.vcxproj -> C:\Users\Antares\Desktop\庭妤的資料\程式設計\程式練習\40873038H_CW7\Debug\40873038H_CW7.exe
